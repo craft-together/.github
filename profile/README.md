@@ -2,4 +2,7 @@
 
 ## 🔨 CRAFT TOGETHER
 
-This is a private Minecraft server project.
+Source code for custom plugins developed for Craft Together.
+
+## Links
+[Discord](https://discord.gg/pSnA7uUXXK)
