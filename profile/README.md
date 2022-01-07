@@ -18,3 +18,4 @@ Source code for custom plugins developed for Craft Together.
 ## 🤗 Contributors
 - [Polarian](https://github.com//PolarianDev)
 - [Marian](https://github.com/M5rian)
+- [Xerition](https://github.com/x3rition)
