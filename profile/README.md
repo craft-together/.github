@@ -16,6 +16,6 @@ Source code for custom plugins developed for Craft Together.
 [Bedfucker](https://github.com/CraftTogether/Bedfucker) - Be able to break Bedrock (Papers fix fixed)
 
 ## 🤗 Contributors
-- [Polarian](https://github.com//PolarianDev)
-- [Marian](https://github.com/M5rian)
-- [Xerition](https://github.com/x3rition)
+- 🥇[Polarian](https://github.com//PolarianDev)
+- 🥈[Marian](https://github.com/M5rian)
+- 🥉[Xerition](https://github.com/x3rition)
