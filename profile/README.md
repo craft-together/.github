@@ -6,6 +6,11 @@ Source code for custom plugins developed for Craft Together.
 
 Any issues with the craft together server please submit an issue on our repository [here](https://github.com/CraftTogether/CraftTogether/issues)
 
+## Developers
+**[Marian](https://github.com/M5rian) - Project Owner, Developer**
+**[Polarian](https://github.com/PolarianDev) - Head Developer**
+**[Xerition](https://github.com/x3rition) - Developer**
+
 ## 🔌 Discord Bots
 [CraftBot](https://github.com/CraftTogether/craftbot) - A support bot to aid in development of plugins for craft together
 
