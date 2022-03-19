@@ -8,8 +8,10 @@ Any issues with the craft together server please submit an issue on our reposito
 
 ## Developers
 **[Marian](https://github.com/M5rian) - Project Owner, Developer** <BR>
-**[Polarian](https://github.com/PolarianDev) - Head Developer** <br>
 **[Xerition](https://github.com/x3rition) - Developer** <BR>
+  
+## Former Developers
+**[Polarian](https://github.com/PolarianDev) - Former Head Developer** <br>
 
 ## 🔌 Discord Bots
 [CraftBot](https://github.com/CraftTogether/craftbot) - A support bot to aid in development of plugins for craft together
